@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body{
-    background-image: url(Assets/background_home.jfif);
+    background-image: url(/Assets/background_home.jfif);
     background-repeat: no-repeat;
     background-size: cover;
     background-position-x: center;
